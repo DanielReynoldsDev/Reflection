@@ -12,6 +12,9 @@
 	.btn-card {
 		color: $white;
 		background-color: $cardcolor;
+		width: 130px;
+		align-self: center;
+		
 	}
  
 	}
@@ -30,7 +33,8 @@
 		}
 		.btn-card{
 			color: $cardcolor;
-			background-color: $white; 
+			background-color: $white;
+			 
 		}
 	}
 	}
